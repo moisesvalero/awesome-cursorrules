@@ -318,6 +318,10 @@ By adding selected `.mdc` files to `.cursor/rules/`, you can use these rules dir
 - [How-To Documentation](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/how-to-documentation-cursorrules-prompt-file.mdc) - Task-oriented guides and procedural documentation.
 - [README Best Practices](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/readme-best-practices-cursorrules-prompt-file.mdc) - README documentation with best practices integration.
 
+### Agent instruction tools
+
+- [agentchecker](https://github.com/moisesvalero/agentchecker) - CLI (`npx agentchecker`) that detects and fixes contradictions between `AGENTS.md`, `CLAUDE.md`, `.cursor/rules/*.mdc`, and GitHub Copilot instructions.
+
 ## Directories
 
 - [CursorList](https://cursorlist.com)
